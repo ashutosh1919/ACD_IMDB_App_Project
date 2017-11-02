@@ -69,5 +69,3 @@ WebServices and Image Lazy Loading : Following concepts are being used in this a
 I have created This app with many things involved in it. I have created large recycler view to show the list of movies in an elegant way. i have used Adapter for that. I have used web services to fetch the information from the API and displaying to the App. I have made the database which will store the information about Favourites and watched movies. By clicking the movie in the RecyclerView, elegant activity will be created. Which have all the information mentioned above. My app is running and verified on emulator having configurations, NEXUS-6P API 24. And screenshots are of same emulator.
 
 I have taken screen shots of output in different different screens. I have uploaded the screen shots. Name of the screenshots will clearly specify the activity of screenshot. I have also uploaded code for app in compressed format(.rar).
-
-Please, Verify the project and give the remark and criticims about the app and deliver me the marks as soon as possible and as good as possible. 
